@@ -1,0 +1,361 @@
+/*Domain name:    annabelle.co.nz
+The UDAI for this domain name is: vKtMCFR4
+KiwiWebHost:
+Your Domain ID :   I3158309
+Your Password  :   06u5xv
+Login to CPanel: annabell
+Password:r1tch1e
+*/
+
+body{
+	/*background-image:url("catSix.gif");*/
+	padding-bottom:20px;
+	background-color:purple;
+	color:white;
+	position:relative;
+}
+
+h1{
+	color:#BB4ADE;
+	text-align:center;
+	font-size:50px;	
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:#f7bdde;/*pink*/
+	margin:.4em 20% .4em 20%;
+	border:solid thin maroon;
+}
+h3{ /* individual story titles, story pages*/
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+p{
+	font-size: 12px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.indentp{
+	margin:0px 5px 3px 20px;
+}
+.newsp{
+	margin:0px 0px 8px 0px;
+}
+h2{
+	color:#BB4ADE;/*purple*/
+	background-color:white;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	margin-left:30%;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+h4{  /*Sub-headings, black on pink*/
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background-color:#f7bdde;/*pink#f7bdde*/
+	color:black;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h5{   /*story page top-most headings*/
+	color:#BB4ADE;
+	text-align:center;
+	font-size:2em;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background-color:white;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#left{
+/* left section, home page*/
+	float:left;
+	width:25%;
+	background-color:white;
+	color:black;
+	margin-left: 20px;
+	padding:0px 5px 0px 5px;
+	border:solid thin maroon;
+}
+#right{
+	/*right section, home page*/
+	float:left;
+	margin-left: 30px ;
+	padding:0px 5px 0px 5px;
+	background-color:white;
+	color:black;
+	width:60%;
+	border:solid thin maroon;
+}
+#footer{
+	clear:both;
+	height:1px;
+}
+#storyOuter{
+	background-color:white;
+	color:black;
+	padding:8px;
+	margin-left:15%;
+	margin-right:15%;
+	/*border-left:solid thin #f7bdde;pink*/
+	border-right:solid thin #f7bdde;/*pink*/
+	width:65%;
+	position:absolute; left:14%;
+}
+#pianoOuter{
+	background-color:white;
+	color:black;
+	width:20%;
+	margin-left:20%;
+
+}
+#projectOuter{
+
+	color:black;
+	padding:2px;
+	margin-left:3px;
+	margin-top:18px;
+	margin-right:5%;
+	position:relative;
+
+}
+h4.piano{
+
+text-align:right;
+}
+#navigation{
+	margin-left:0;
+	margin-right:2px;
+	margin-bottom:0;
+	padding-right:5px;
+	position:absolute; left:1%;top:30px;/*was 13%*/
+	/*width:auto;*/
+	/*width:30%;*/
+}
+
+.story{
+	background-color:white;
+	color:black;
+	padding:8px;
+	border-top: 5px black solid;
+}
+.signDatep{ /* for right justified year, and top link, story page*/
+	text-align:right;
+}
+.small{ /*photo credit, hiphop.html*/
+	font-size:smaller;
+	background-color:white;
+margin-left:20%;
+clear:both;
+	
+}
+.outline{ /*photo outlines*/
+	border:solid thin black;
+vertical-align:text-bottom;
+}
+.whitebackp{
+	background-color:white;
+	color:black;
+	width:200px;
+	margin:0px auto 0px 0px;
+}
+.centreimg{
+	float:left;
+	margin-left:20%;
+	border:solid thin black;
+	clear:both;
+
+}
+.galleryImage{
+	float:left;
+	margin-left:180px;
+	border:solid black;
+	background-color:black;
+	padding:20px 50px 20px 50px;
+	clear:both;
+
+}
+.rightImage{
+float:right;
+
+}
+leftQuid.img{
+	border:solid thick black;
+}
+#leftQuid{
+/* left section, home page*/
+	position:absolute;left:30%;
+	width:70%;
+	background-color:white;
+	color:black;
+	margin-left: 10px;
+	margin-right:6px;
+	padding:0px 5px 0px 5px;
+	
+}
+#rightQuid{
+	/*right section, home page*/
+	float:left;
+	margin-left: 15px ;
+	padding:0px 5px 0px 20px;
+	background-color:white;
+	color:black;
+	width:40%;
+
+}
+
+#leftLinks{
+/* left section, project page*/
+	float:left;
+	width:40%;
+	background-color:white;
+	color:black;
+	margin-left: 10px;
+	padding:0px 5px 0px 5px;
+	text-align:center;
+	
+}
+#rightLinks{
+	/*right section, project page*/
+	float:left;
+	margin-left: 10px ;
+	padding:0px 5px 0px 5px;
+	background-color:white;
+	color:black;
+	width:30%;
+	text-align:left;
+
+}
+.book{
+	background-color:#f7bdde;/*pink*/
+	margin-left:10px;
+	padding:5px;
+	width:70%;
+}
+li{
+/*font-size:large;*/
+	font-weight:bold;
+	list-style-type:none;
+	margin-top:5px;
+	margin-bottom:5px;
+	color:#319cce;/*blue*/
+	width:160px;
+	background-color:#f7bdde;
+	border:solid 2px #ff77de;/*darkpink*/
+}
+
+li a:link{
+	background-color:#f7bdde;
+	color:#BB4ADE;
+	margin-left:0px;
+	padding-left:2px;
+	padding-right:2px;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+li a:visited{
+	background-color:#f7bdde;
+	color:#BB4ADE;
+	
+	margin-left:0px;
+	padding-left:2px;
+	padding-right:2px;
+
+
+}
+li a:hover{
+background-color:#f7bdde;
+color:black;
+
+
+margin-left:0px;
+	padding-left:2px;
+	padding-right:2px;
+
+}
+li a:active{
+background-color:#f7bdde;
+color:ff77de;
+	
+margin-left:0px;
+padding-left:2px;
+padding-right:2px;
+
+	margin-top:3px;
+	margin-bottom:3px;
+}
+li.gallery{
+/*font-size:large;*/
+	font-weight:bold;
+	list-style-type:none;
+	margin-top:5px;
+	margin-bottom:5px;
+	color:aaaaff;/*blue*/
+	width:100px;
+	background-color:gray;
+	border:solid 2px black;/*black*/
+}
+
+li.gallery a:link{
+	background-color:gray;
+	color:black;
+	margin-left:0px;
+	padding-left:2px;
+	padding-right:2px;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+li.gallery a:visited{
+	background-color:gray;
+	color:black;
+	
+	margin-left:0px;
+	padding-left:2px;
+	padding-right:2px;
+
+
+}
+li.gallery a:hover{
+background-color:gray;
+color:black;
+
+
+margin-left:0px;
+	padding-left:2px;
+	padding-right:2px;
+
+}
+li.gallery a:active{
+background-color:#black;
+color:gray;
+	
+margin-left:0px;
+padding-left:2px;
+padding-right:2px;
+
+	margin-top:3px;
+	margin-bottom:3px;
+}
+
+p.current{
+	background-color:white;
+	color:#319cce;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-left:2px;
+	padding-right:2px;
+
+}
+
+ol{
+background-color:white;
+
+}
+.imageBorder{
+	border:solid thin black;
+}
+table.gallery{
+	margin-left:30%;
+}
+td{
+	width:180px;
+	height:80px;
+}
